@@ -39,5 +39,5 @@ Desenvolvimento personalizado, sob demanda
 <li><a href="src/README.md"> Código Fonte</a></li>
 
 # Apresentação
-https://user-images.githubusercontent.com/82393577/226198101-6269997a-ee95-4107-b2be-e89c41ad0b19.mp4
+
 
