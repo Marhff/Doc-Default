@@ -28,8 +28,6 @@ Desenvolvimento personalizado, sob demanda
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-# Código
+# Feito por:
 
 <li><a href="https://www.cubedev.com.br"> Cube Dev.</a></li>
-
-# Apresentação
