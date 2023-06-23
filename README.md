@@ -6,12 +6,12 @@
 
 `FASE 1`
 
-Desenvolvimento personalizado, sob demanda
+Desenvolvimento personalizado de larga escala
 
 ## Integrantes
 
-* Marcos Franca (MArff) 
-* Matheus Lima (Matheuziin13)
+* Marcos Franca (Marff) 
+* 
 *
 
 
@@ -19,7 +19,7 @@ Desenvolvimento personalizado, sob demanda
 # Documentação
 
 <ol>
-<li><a href="docs/01-Projeto prático.md"> Especificação do Projeto</a></li>
+<li><a href="docs/01-Projeto prático.md"> Projeto prático</a></li>
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
