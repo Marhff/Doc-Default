@@ -5,9 +5,16 @@
 
 * Fluxo de caixa 
 * Balancetes 
-* Funcionarios
-* Equipamentos 
-* Veiculos 
 * Método de pesquisa por foto
-* Cadastro de notas fiscais
+### Cadastros
+*  Funcionarios
+*  Equipamentos 
+*  Veiculos 
+* Notas fiscais
+
+# Tecnologias
+* Front-End: React
+* Back-End: 
+* Api's: 
+* Banco de dados: Firebase
 
